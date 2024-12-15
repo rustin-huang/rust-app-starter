@@ -1,0 +1,19 @@
+{
+    "recommendations": [
+        // Rust
+        "rust-lang.rust-analyzer",
+        "fill-labs.dependi",
+        "vadimcn.vscode-lldb",
+        // TOML file display
+        "tamasfe.even-better-toml",
+        // YAML file
+        "redhat.vscode-yaml",
+        // Comments
+        "aaron-bond.better-comments",
+        // Git
+        "eamodio.gitlens",
+        "github.vscode-github-actions",
+        // Error highlight
+        "usernamehw.errorlens"
+    ]
+}

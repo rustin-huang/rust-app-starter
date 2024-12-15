@@ -1,2 +1,3 @@
 # rust-app-starter
-Basic tempalte for Rust applications
+
+Basic template for Rust applications
